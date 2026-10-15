@@ -1,0 +1,205 @@
+Copyright © 2026. All rights reserved.
+
+This is NOT an OSI-approved open-source license.
+
+                      NucSyn Academic Research License
+                                 Version 1.0
+
+NucSyn ("the Software") is made available under the terms below by the
+copyright holder(s) and any person or entity authorized to distribute and
+license the Software (collectively, the "Licensor"). By downloading,
+installing, loading, executing or otherwise using the Software, you ("the
+Licensee") accept this license. If you do not accept it, do not use the
+Software.
+
+The Software is distributed only in binary form, as a container image and
+associated documentation. No rights to source code are granted by this license.
+
+
+1. ELIGIBLE USERS
+
+   This license is granted only to a researcher, student, faculty member or
+   staff member acting on behalf of:
+
+   (a) an accredited university; or
+
+   (b) a nonprofit academic or nonprofit research institution.
+
+   Each such institution is an "Eligible Institution", and each qualifying
+   individual acting in that capacity is an "Eligible User".
+
+   Any other person or entity, including a commercial entity, must obtain a
+   separate written license before using the Software.
+
+
+2. PERMITTED USE
+
+   Subject to the restrictions in Section 3, the Licensor grants the Licensee a
+   non-exclusive, non-transferable, royalty-free, revocable license to:
+
+   (a) use the Software for bona fide non-commercial academic research and for
+       education and academic training;
+
+   (b) run the Software directly — interactively, from scripts, on institutional
+       computing or HPC resources, and as a component of the Licensee's own
+       internal academic research pipelines;
+
+   (c) install the Software, and share the unmodified Software as received, to
+       the extent reasonably necessary for that permitted purpose, within the
+       Eligible Institution or within a defined academic research project in
+       which the Licensee participates, provided every recipient is an Eligible
+       User who is informed of and bound by this license; and
+
+   (d) publish and present the scientific outputs produced with the Software,
+       including designed sequences, data, figures, methods descriptions,
+       papers, theses, dissertations, posters and presentations, subject to the
+       citation requirement in Section 5.
+
+   Nothing in this license restricts the Licensee's ownership of, or freedom to
+   publish, the scientific results the Licensee generates using the Software.
+
+
+3. RESTRICTIONS
+
+   Except as expressly permitted in Section 2, and except with the Licensor's
+   prior written permission, the Licensee must not:
+
+   (a) publicly redistribute the Software, its binaries, its container or OCI
+       images, any modified distribution of it, any derivative binary package,
+       or any copy of it, including by publishing it to a public repository,
+       registry, archive, package index or website;
+
+   (b) incorporate, embed, bundle, wrap or otherwise include the Software, or
+       any part of it, as a component, library, module or backend of a
+       separately distributed software product;
+
+   (c) make the Software, or its functionality, available to any third party
+       through a website, software-as-a-service offering, application
+       programming interface, hosted service, graphical user interface,
+       workflow service, network-accessible tool, application or any other
+       system that a third party can reach, including where the Software is
+       hidden from that third party as a black-box container, subprocess,
+       job runner or backend;
+
+   (d) use the Software for any commercial purpose, including to provide
+       services to a third party for a fee or other consideration;
+
+   (e) use the Software for product development, including research or
+       evaluation whose purpose is to develop, validate, improve or support a
+       commercial product or service;
+
+   (f) use the Software in work sponsored or funded by a commercial entity
+       where the purpose of that work is commercial exploitation or product
+       development, unless separately authorized in writing by the Licensor;
+
+   (g) sublicense, rent, lease, sell, assign or transfer the Software or any
+       rights under this license; or
+
+   (h) reverse engineer, decompile or disassemble the Software, or attempt to
+       derive its source code, algorithms or internal structure from the
+       distributed binaries, except and only to the extent that this
+       restriction cannot lawfully be excluded under applicable law. Where
+       applicable law grants the Licensee a non-waivable right to perform such
+       an act, this subsection does not restrict that right.
+
+   Collaboration note: Section 2(c) is intended to permit normal university and
+   nonprofit research collaboration. An external collaborator who is an
+   Eligible User should obtain the Software under this license, on the same
+   terms, rather than receiving a publicly redistributed copy.
+
+
+4. THIRD-PARTY AND EXTERNAL SOFTWARE
+
+   The Software's container image includes third-party components distributed
+   under their own license terms, which are provided with the distribution and
+   which govern those components. Nothing in this license alters them.
+
+   The Software additionally depends on external programs that the Licensor does
+   not distribute and does not license to the Licensee, including RNAaccess and,
+   for the optional off-target screen, NCBI BLAST+ and any reference sequence
+   database. The Licensee is solely responsible for obtaining those programs and
+   data and for complying with their licenses and terms of use.
+
+
+5. CITATION
+
+   Any publication, presentation, preprint, thesis, poster or report that
+   describes results obtained with the Software must cite the Software as
+   specified in the CITATION file supplied with the distribution.
+
+
+6. OTHER USE
+
+   Commercial use, redistribution, hosted-service or network-service provision,
+   incorporation into a distributed product, product-development use and any
+   other use not expressly permitted by Section 2 require the Licensor's prior
+   written permission.
+
+   Licensing contact:
+
+       Prof. Tamir Tuller
+       tamirtul@post.tau.ac.il
+
+
+7. NO OTHER RIGHTS
+
+   No rights are granted other than those expressly stated. All rights, title
+   and interest in the Software, including all intellectual property rights,
+   remain with their respective owner or owners. No rights are granted under
+   any patent, except as strictly necessary to exercise the permissions
+   expressly granted in Section 2.
+
+
+8. TERM AND TERMINATION
+
+   This license applies for as long as the Licensee complies with it. It
+   terminates automatically and immediately if the Licensee breaches any term.
+   On termination the Licensee must stop using the Software and delete all
+   copies in the Licensee's possession or control. Sections 5, 9, 10 and 11
+   survive termination. Results already published remain unaffected.
+
+
+9. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND
+   NON-INFRINGEMENT.
+
+   THE SOFTWARE IS RESEARCH SOFTWARE. IT IS NOT VALIDATED, CERTIFIED OR
+   APPROVED FOR CLINICAL, DIAGNOSTIC, THERAPEUTIC, FORENSIC OR ANY OTHER
+   REGULATED OR SAFETY-CRITICAL USE, AND MUST NOT BE USED FOR ANY SUCH PURPOSE.
+   DESIGNS, SEQUENCES, STRUCTURES AND ENERGIES IT PRODUCES ARE COMPUTATIONAL
+   PREDICTIONS. THE LICENSEE IS SOLELY RESPONSIBLE FOR INDEPENDENTLY REVIEWING
+   AND EXPERIMENTALLY VALIDATING ANY DESIGN BEFORE SYNTHESIS OR USE, AND FOR
+   COMPLYING WITH ALL APPLICABLE LAWS, BIOSAFETY RULES, BIOSECURITY RULES AND
+   INSTITUTIONAL APPROVALS.
+
+
+10. LIMITATION OF LIABILITY
+
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+    LICENSOR, COPYRIGHT HOLDER, AUTHOR, CONTRIBUTOR, DISTRIBUTOR OR AFFILIATED
+    INSTITUTION BE LIABLE FOR
+    ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+    TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+    OR ITS USE, INCLUDING ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+    PUNITIVE OR CONSEQUENTIAL DAMAGES, ANY LOSS OF DATA, PROFITS, REVENUE OR
+    RESEARCH TIME, AND ANY COST OF EXPERIMENTAL WORK BASED ON ITS OUTPUT, EVEN
+    IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+    Nothing in this license excludes or limits liability that cannot lawfully be
+    excluded or limited.
+
+
+11. GENERAL
+
+    If any provision of this license is held unenforceable, the remaining
+    provisions remain in full force, and the unenforceable provision shall be
+    applied to the maximum extent permitted by law.
+
+    This license is the entire agreement between the parties regarding the
+    Software and supersedes any prior understanding regarding it.
+
+    The Licensor may issue future versions of this license. A version applies to
+    the distribution it accompanies.
